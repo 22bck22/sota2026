@@ -1453,7 +1453,7 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "campus",
-    number: "53.7%",
+    number: "46.3%",
     title: "Head of School Approval",
     subtitle:
       "of respondents approve of the work the Head of School is doing for students, a decrease from 2025's 55.6%.",
@@ -1528,32 +1528,38 @@ window.onload = () => {
     // 2026
   });
 
-  sota.barChart({
+  sota.stackedBarChart({
     section: "campus",
-    dataFile: "assets/data/campus/hos-search",
+    dataFile: "assets/data/campus/hos-searchXyear",
+    sorted: false,
+    showLegend: true,
+    labelStyle: "onBar",
+    groupLabelStyle: "onBar",
+    inputIsPercentage: true,
     displayPercentage: true,
-    title: "HOS Search Student Input",
-    subtitle: "Do you think students should have greater input in the search for the next Head of School?",
+    title: "HOS Search Student Input & Class Year",
+    subtitle: "Whether respondents think students should have greater input in the search for the next Head of School correlated with their class year.",
     // 2026
   });
 
   sota.barChart({
     section: "campus",
     dataFile: "assets/data/campus/130-cellphoneReg",
-    showPercentage: true,
-    title: "Cell Phone Regulations",
-    subtitle: "Do you believe there should be more regulations surrounding cell phone usage, through a campus cell phone policy?"
+    displayPercentage: true,
+    title: "Cell Phone Policy",
+    subtitle: "Do you believe Andover's Cell-Phone Policy should be altered?",
     // 2026
-  })
+  });
 
   sota.barChart({
     section: "campus",
     dataFile: "assets/data/campus/129-school_spirit",
-    showPercentage: true,
+    totalResp: 865,
+    displayPercentage: true,
     title: "School Spirit",
-    subtitle: "Do you believe that Andover students have school spirit?"
-    // 2025!
-  })
+    subtitle: "Do you believe that Andover students have school spirit?",
+    // 2026
+  });
 
     sota.stackedBarChart({
     section: "campus",
