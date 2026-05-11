@@ -36,15 +36,15 @@ sota.sotaConfig.sections = [
       "#CBC3E3",
     ],
     blurb:
-      "Of respondents, 55.6% believe that white people can experience racism (colloquially known as reverse-racism), an increase from 2025’s 53.0%. At Andover, 38.1% of students support legacy admissions in academic institutions. 72.8% of students indicated that they support affirmative action in academic institutions. When asked about Diversity, Equity and Inclusion (DEI) programs, 51.5% of students indicated their support for such programs in the workplace and educational institutions. Of students, 52.5% of students believe that it should be easier to immigrate to the United States of America.",
+      "Of respondents, 67.4% consider themselves feminists and 96.3% support the equality of the sexes. When correlated with gender identity, 45.4% of men and 83.1% of women consider themselves feminists. 55.6% believe that white people can experience racism, colloquially known as reverse racism. 85.9% believe Andover has a political leaning to the left. 46.0% said they have felt the need to censor themselves due to their political leaning. 68.0% believe people should always have the right to an abortion. 37.9% support legacy admissions at academic institutions.",
   },
 
   {
     slug: "school",
     name: "Education",
-    colors: ["#812F54", "#AA7281", "#BF97A0", "#BF97A0", "#DCC5C3","#EEE2E1"],
+    colors: ["#812F54", "#AA7281", "#BF97A0", "#BF97A0", "#DCC5C3", "#EEE2E1", "#F5EDEC", "#FBF6F5"],
     blurb:
-      "Although 83.2% of respondents consider themselves happy at Andover, 32.1% of students wouldn’t want their children to attend Andover. 39.8% of students believe that attending Andover has positively affected their relationship with their family, a decrease from 2024’s 47.5%. Of the student body, 71.6% of students believe that there is an unreasonable grading disparity in the English department. Similarly, 69.5% of respondents believe that there is an unreasonable grading disparity in the History department. Of respondents, 51.2% have switched or attempted to switch teachers within the same course in order to obtain a better grade.",
+      "Of respondents, 58.7% currently hold student leadership positions at Andover. On average, respondents spend 3.54 hours on coursework daily. 30.2% of respondents think attending Andover negatively affects their chances of getting into a selective college. 76.9% said they participate in extracurriculars at least partially to increase their chances of getting into a selective college. 40.0% said they considered leaving Andover before graduating. 28.9% said Andover adequately accommodates students with disabilities, disorders, or impairments that affect their learning.",
   },
   {
     slug: "wellness",
@@ -61,7 +61,7 @@ sota.sotaConfig.sections = [
       "#88d1a8"
     ],
     blurb:
-      "At Andover, students sleep an average of 6.96 hours a night. 74.4% of students feel as though they have an adequate mental and/or emotional support system on campus, an increase from 2024’s 69.0%. Of respondents, 45.2% included faculty/staff in their mental and/or emotional support system on campus, compared to 35.9% in 2024."
+      "On average, respondents get 6.96 hours of sleep per night at Andover. 83.2% of respondents consider themselves happy at Andover, while 67.3% think that Andover students are generally happy. Respondents spend an average of 2.28 hours per day on social media. 83.5% of respondents believe faculty members care about their mental health and well-being. Only 7.2% of respondents said they always have enough time in their day-to-day life at Andover to adequately take care of themselves. 20.6% consider themselves neurodivergent, and 10.8% reported being diagnosed with ADD/ADHD."
   },
 
   {
@@ -84,7 +84,7 @@ sota.sotaConfig.sections = [
       "#E9DDD0",
     ],
     blurb:
-      "At Andover, 58.2% of all students have consumed drugs or alcohol. 50.4% have consumed alcohol recreationally and 24.38% have used some form of marijuana. 67.7% of respondents think that the use of recreational drugs and alcohol is normalized at Andover, a decrease from 2024’s 78.6%. For students who consume recreational drugs or alcohol on campus, 24.6% consume on a monthly basis.",
+      "Of respondents, 41.8% have consumed alcohol on and/or off campus. 13.2% consume drugs or alcohol at least several times a year on campus. 58.0% of respondents think that the recreational use of drugs or alcohol is normalized at Andover. 73.8% of respondents that have consumed alcohol think that the recreational use of drugs and alcohol is normalized at Andover. 8.0% of respondents said they have felt pressured by peers to consume drugs or alcohol on campus.",
   },
   {
     slug: "sex",
@@ -99,28 +99,28 @@ sota.sotaConfig.sections = [
       "#fbe7ec",
     ],
     blurb:
-      "Of respondents, 35.5% of students have engaged in sexual activity — defined as digital, oral, anal, online, and/or vaginal sex. Although 37.0% of respondents think that Andover has provided an adequate sexual education, only 37% feel comfortable consulting with the Rebecca M. Sykes Wellness Center regarding sex-related resources. At Andover, 45.6% of students have been or are currently in a committed relationship. 28.7% of students say they consistently ask their partner for verbal consent.",
+      "31.4% of respondents said they have engaged in some form of sexual activity — defined as digital, oral, anal, online, and vaginal sex. 50.1% of students feel comfortable consulting the Sykes Wellness Center for sex-related resources and care, an increase from 2025's 37.0%. Of the 31.4% of respondents who have engaged in sexual activity, 29.9% have done so while under the influence of drugs or alcohol.",
   },
   {
     slug: "campus",
     name: "Campus Culture",
     colors: ["#762670", "#945E98", "#A77FAD", "#BC98B9", "#D9C6D8"],
     blurb:
-      "In Dr. Raynard Kington’s sixth year as Head of School (HOS), 46.3% of respondents approve of the work the Head of School is doing for students. 27.4% of students believe that he connects with the student body, a decrease from 2025’s 33.2%. At Andover, 63.4% of students think that the school promotes ideological diversity in its speakers, a decrease from 2025’s 66.7%. Of non-Varsity athletes, 74.3% believe that Andover prioritizes athletics compared to music, art, and robotics. However, only 55.6% of Varsity athletes believe so. 30.1% of students believe that Andover’s anti-racist work is entirely sufficient.",
+      "In Raynard Kington’s sixth year as Head of School (HOS), 27.4% of respondents believe that he connects with the student body. 84.2% of respondents think students should have greater input in the search for the next HOS. Of all respondents, 30.1% said that Andover’s anti-racism work is entirely sufficient. 63.4% of students think that Andover promotes ideological diversity in its selection of speakers for mandatory events.",
   },
   {
     slug: "diversity",
     name: "Community Diversity",
     colors: ["#279680", "#29AD97", "#78C4B1", "#AEDCCA", "#C8E7DD"],
     blurb:
-      "At Andover, only 11.2% of students believe that the Empathy, Balance, and Inclusion (EBI) curriculum is effective in helping students become better community members, a drop from 2024’s 15.3%. Of all respondents, 62.8% think that day students are able to integrate with boarding students, an increase from 2024’s 55.8%. While 22.0% of women have had their gender affect their level of comfort in the classroom, only 8.2% of men believe so.",
+      "At Andover, 24.5% of students believe that the Empathy, Balance, and Inclusion (EBI) curriculum is effective in helping students become better community members, an increase from 2025’s 11.2%. 52.5% of Black respondents said their race has affected their level of comfort in a classroom, compared to 32.1% of Latine/Hispanic respondents, 18.1% of Asian respondents, and 10.6% of White respondents. 66.1% of respondents think that day students are able to adequately integrate with boarding students.",
   },
   {
     slug: "discipline",
     name: "Discipline",
     colors: ["#B53432", "#C74F50", "#D47173", "#E4A8A6", "#F0D1CA"],
     blurb:
-      "Only 8.7% of students completely understand the new disciplinary system called Pathways. Of respondents, 31.6% have cheated on a test, quiz, or in-class assessment. 46.7% of the student body believes that the school’s disciplinary systems have favored students of privileged backgrounds. When correlated with income, 61.6% of respondents whose net family income is less than $35,000 believe that the disciplinary system favors students from privileged backgrounds, while 48.4% of respondents whose net family income is greater than $1,000,000 believe that the disciplinary system favors students from privileged backgrounds.",
+      "Of respondents, 10.8% said they use AI daily for academic assignments without explicit instructor permission. Only 8.7% of students completely understand the Pathways disciplinary system. 31.6% have cheated or plagiarized on an Andover assignment, test, quiz, or assessment. 46.9% of those who have received disciplinary consequences believe that the disciplinary system should be more lenient. When correlated with income, 82.4% of students whose net family income is less than $35,000 believe that the disciplinary system favors students from privileged backgrounds.",
   },
 
   // {
@@ -343,10 +343,10 @@ window.onload = () => {
   sota.bigNumber({
     section: "general",
     dataFile: "assets/data/general/12-legacy",
-    number: "38.1%",
+    number: "30.0%",
     title: "Legacy",
     subtitle:
-      "of respondents have at least one immediate family member who is currently attending or has previously attended Andover.",
+      "of respondents have at least one family member who is currently attending or has previously attended Andover.",
     // 2025!!
   });
 
@@ -533,7 +533,7 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "general",
-    number: "46.2%",
+    number: "43.4%",
     title: "Financial aid",
     subtitle: "of respondents are on financial aid provided by Andover.",
     // 2025
@@ -1297,6 +1297,38 @@ window.onload = () => {
 
   // --- CAMPUS CULTURE!! ----
 
+  sota.bigNumber({
+    section: "campus",
+    number: "84.0%",
+    title: "Cell Phone Policy",
+    subtitle: "of respondents believe the cell-phone policy should be altered.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "campus",
+    number: "16.8%",
+    title: "Task Forces",
+    subtitle: "of respondents said task forces are an effective way to incorporate student perspectives into school decision-making.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "campus",
+    number: "84.2%",
+    title: "HOS Search Student Input",
+    subtitle: "of respondents think students should have greater input in the search for the next Head of School.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "campus",
+    number: "70.9%",
+    title: "School Spirit",
+    subtitle: "of respondents believe that Andover students have school spirit.",
+    // 2026
+  });
+
   sota.barChart({
     section: "campus",
     dataFile: "assets/data/campus/128-ideologicaldiversity",
@@ -1421,11 +1453,11 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "campus",
-    number: "46.3%",
+    number: "53.7%",
     title: "Head of School Approval",
     subtitle:
-      "of respondents that approve of the work the Head of School is doing for students.",
-    // 2025
+      "of respondents approve of the work the Head of School is doing for students, a decrease from 2025's 55.6%.",
+    // 2026
   });
 
   sota.pieChart({
@@ -1489,11 +1521,29 @@ window.onload = () => {
 
   sota.barChart({
     section: "campus",
+    dataFile: "assets/data/campus/taskforces",
+    displayPercentage: true,
+    title: "Task Forces",
+    subtitle: "Do you think task forces are an effective way to incorporate student perspectives into school decision-making?",
+    // 2026
+  });
+
+  sota.barChart({
+    section: "campus",
+    dataFile: "assets/data/campus/hos-search",
+    displayPercentage: true,
+    title: "HOS Search Student Input",
+    subtitle: "Do you think students should have greater input in the search for the next Head of School?",
+    // 2026
+  });
+
+  sota.barChart({
+    section: "campus",
     dataFile: "assets/data/campus/130-cellphoneReg",
     showPercentage: true,
     title: "Cell Phone Regulations",
     subtitle: "Do you believe there should be more regulations surrounding cell phone usage, through a campus cell phone policy?"
-    // 2025!
+    // 2026
   })
 
   sota.barChart({
@@ -1767,15 +1817,7 @@ window.onload = () => {
     // 2023!!
   });
 
-  sota.bigNumber({
-    section: "school",
-    number: "5.45",
-    title:
-      "Respondents who indentified as a woman had an average Winter GPA higher than men of",
-    subtitle:
-      "Respondents who identified as men had an average of 5.38.  Editor’s note: Correlated statistics from respondents who identify as “Agender,” “Genderfluid,” “Genderqueer,” “Nonbinary.” and “Other” have been removed in an effort to protect the complete anonymity of these respondents.",
-    // 2025  
-  });
+  // GPA by gender bigNumber removed — 2026 PDF does not report specific averages by gender
 
  sota.stackedBarChart({
     section: "school",
@@ -1799,7 +1841,6 @@ window.onload = () => {
     groupLabelStyle: "onBar",
     displayPercentage: true,
     title: "GPA and Sleep",
-
     // 2023!! TODO correlation
   });
 
@@ -2091,14 +2132,23 @@ window.onload = () => {
 
   // --- DISCIPLINE!! ---
 
-  sota.bigNumber({ 
+  sota.bigNumber({
     section: "discipline",
-    number: "13.3%",
+    number: "15.2%",
     title: "Major Discipline Violation",
     subtitle:
-      "of respondents have commited a major disciplinary violation without being caught.",
+      "of respondents have committed a major disciplinary violation without being caught.",
     margin: margin,
-    // 2024!!
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "discipline",
+    number: "10.8%",
+    title: "AI Daily Usage",
+    subtitle:
+      "of respondents said they use AI daily for academic assignments without explicit instructor permission.",
+    // 2026
   });
 
   // sota.pieChart({
@@ -2730,7 +2780,7 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "sex",
-    number: "26.6%",
+    number: "20.1%",
     title: "Peer pressure & hook-up culture",
     subtitle:
       "of respondents that believe Andover has a hook-up culture have felt pressured by peers to participate in it.",
@@ -2767,11 +2817,11 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "sex",
-    number: "12.0%",
+    number: "9.0%",
     title: "Partner Pressure",
     subtitle:
       "of respondents have felt pressured by their partners to engage in sexual activity.",
-    // 2025
+    // 2026
   });
 
   sota.pieChart({
@@ -2934,6 +2984,14 @@ window.onload = () => {
     // 2025
   });
 
+  sota.bigNumber({
+    section: "sex",
+    number: "22.7%",
+    title: "Sexual Harassment",
+    subtitle: "of respondents have been sexually harassed (unwelcome sexual advances, requests for sexual favors, and other verbal or physical harassment of a sexual nature).",
+    // 2026
+  });
+
   sota.columnChart({
     section: "sex",
     dataFile: "assets/data/sex/89-harassed",
@@ -2954,13 +3012,21 @@ window.onload = () => {
     // 2024!!
   });
 
+  sota.bigNumber({
+    section: "sex",
+    number: "9.5%",
+    title: "Sexual Assault",
+    subtitle: "of respondents have been sexually assaulted.",
+    // 2026
+  });
+
   sota.columnChart({
     section: "sex",
     dataFile: "assets/data/sex/91-assaulted",
     displayPercentage: true,
     totalResp: 694,
     title: "Have you ever been sexually assaulted?",
-    // 2025
+    // 2026
   });
 
   sota.barChart({
@@ -3228,7 +3294,7 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "drugs",
-    number: "67.7%",
+    number: "58.0%",
     title: "normalization of drugs and alcohol",
     subtitle:
       "of respondents believe that the use of recreational drugs or alcohol is normalized at Andover.",
@@ -3432,10 +3498,50 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "wellness",
+    number: "83.2%",
+    title: "Happiness",
+    subtitle: "of respondents generally consider themselves happy at Andover.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "wellness",
+    number: "67.3%",
+    title: "Perceived Happiness",
+    subtitle: "of respondents think that Andover students are generally happy.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "wellness",
+    number: "83.5%",
+    title: "Teachers Care",
+    subtitle: "of respondents think the majority of their teachers care about their health and well-being.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "wellness",
+    number: "22.0%",
+    title: "Depression",
+    subtitle: "of respondents have been diagnosed with, or would like to seek an evaluation for, depression.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "wellness",
+    number: "33.6%",
+    title: "Anxiety",
+    subtitle: "of respondents have been diagnosed with, or would like to seek an evaluation for, anxiety.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "wellness",
     title: "sleep",
     number: "6.96",
     subtitle: "average hours of sleep per night of an Andover student.",
-    // 2025
+    // 2026
   });
 
   sota.columnChart({
@@ -3530,8 +3636,8 @@ window.onload = () => {
   sota.bigNumber({
     section: "wellness",
     title: "Neurodivergence",
-    number: "144",
-    subtitle: "respondents consider themselves neurodivergent.",
+    number: "20.6%",
+    subtitle: "of respondents consider themselves neurodivergent.",
     // 2025
   });
 
@@ -3550,8 +3656,8 @@ window.onload = () => {
   sota.bigNumber({
     section: "wellness",
     title: "bullying & hazing",
-    number: "93",
-    subtitle: "respondents have been bullied or hazed while at Andover",
+    number: "11.2%",
+    subtitle: "of respondents have been bullied or hazed while at Andover.",
     // 2025!
   });
 
@@ -3667,10 +3773,10 @@ window.onload = () => {
   sota.bigNumber({
     section: "wellness",
     title: "Sykes Counseling",
-    number: "32.9%",
+    number: "34.7%",
     subtitle:
-      "of students have been to Rebecca M. Sykes Wellness Center to see a counselor.",
-    // 2025
+      "of students said yes to using Sykes mental health support services.",
+    // 2026
   });
 
   sota.pieChart({
@@ -3732,9 +3838,9 @@ window.onload = () => {
   sota.bigNumber({
     section: "wellness",
     title: "ADD/ADHD",
-    number: "228",
+    number: "10.8%",
     subtitle:
-      "respondents have or would like to seek an evaluation for ADD/ADHD.",
+      "of respondents have been diagnosed with ADD/ADHD.",
     // 2025
   });
 
@@ -4200,6 +4306,17 @@ window.onload = () => {
   // // });
 
   sota.sotaMasonry();
+
+  const _refreshMasonry = () => {
+    document.querySelectorAll(".sota-section-inner").forEach(section => {
+      if (!section.classList.contains("sota-content-section")) {
+        new Masonry(section, { itemSelector: ".sota-module", columnWidth: ".sota-module", gutter: 48 });
+      }
+    });
+  };
+  setTimeout(_refreshMasonry, 2000);
+  setTimeout(_refreshMasonry, 5000);
+  setTimeout(_refreshMasonry, 10000);
 };
 
 // Add a resize event listener to ensure charts scale properly when the window size changes.

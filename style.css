@@ -371,3 +371,17 @@ section:before{
   font-size: medium !important;
   text-align: left !important;
 }
+
+/* Extended school section fills for 8-column charts (e.g. GPA and Sleep) */
+#sota-section-school .sota-fill-7, .sota-section-school .sota-fill-7 {
+  fill: #F5EDEC;
+}
+#sota-section-school .sota-stroke-7, .sota-section-school .sota-stroke-7 {
+  stroke: #F5EDEC;
+}
+#sota-section-school .sota-fill-8, .sota-section-school .sota-fill-8 {
+  fill: #FBF6F5;
+}
+#sota-section-school .sota-stroke-8, .sota-section-school .sota-stroke-8 {
+  stroke: #FBF6F5;
+}
