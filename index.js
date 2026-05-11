@@ -1828,8 +1828,8 @@ window.onload = () => {
     groupLabelStyle: "onBar",
     displayPercentage: true,
     title: "GPA and Gender",
-    subtitle: "Editor’s note: Correlated statistics from respondents who identify as “Agender,” “Genderfluid,” “Genderqueer,” “Nonbinary.” and “Other” have been removed in an effort to protect the complete anonymity of these respondents."
-    // 2023!! 
+    subtitle: “GPA distribution for Man and Woman respondents. Editor’s Note: Only data from the GPA range of 5.0 - 6.0 is used. Correlated statistics from respondents who identify as “Agender,” “Genderfluid,” “Genderqueer,” “Nonbinary,” and “Other” gender identities have been removed in an effort to protect the complete anonymity of these respondents.”,
+    // 2023!!
   });
 
   sota.stackedBarChart({
@@ -3351,7 +3351,7 @@ window.onload = () => {
     displayPercentage: true,
     title: "Use of Study Drugs & GPA",
     subtitle:
-      "Whether respondents use study drugs correlated with their GPA. Editor's Note: Only data from the GPA range of 4.0 - 6.0 is used.",
+      "Whether respondents use study drugs correlated with their GPA. Editor's Note: Only data from the GPA range of 5.0 - 6.0 is used.",
     // 2024!!
   });
 
