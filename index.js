@@ -1329,13 +1329,29 @@ window.onload = () => {
     // 2026
   });
 
+  sota.bigNumber({
+    section: "campus",
+    number: "30.1%",
+    title: "Anti-Racism",
+    subtitle: "of respondents said Andover's anti-racism work is entirely sufficient.",
+    // 2026
+  });
+
+  sota.bigNumber({
+    section: "campus",
+    number: "63.4%",
+    title: "Ideological Diversity",
+    subtitle: "of respondents think that Andover promotes ideological diversity in its selection of speakers for mandatory events.",
+    // 2026
+  });
+
   sota.barChart({
     section: "campus",
     dataFile: "assets/data/campus/128-ideologicaldiversity",
-    title: "ideological diversity",
+    title: "Ideological Diversity",
     subtitle:
       "Do you think the school promotes ideological diversity in its selection of speakers?",
-    // 2025
+    // 2026
   });
 
   sota.stackedBarChart({
