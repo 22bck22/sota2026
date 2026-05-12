@@ -1834,7 +1834,7 @@ window.onload = () => {
     groupLabelStyle: "onBar",
     displayPercentage: true,
     title: "GPA and Gender",
-    subtitle: “GPA distribution for Man and Woman respondents. Editor’s Note: Only data from the GPA range of 5.0 - 6.0 is used. Correlated statistics from respondents who identify as “Agender,” “Genderfluid,” “Genderqueer,” “Nonbinary,” and “Other” gender identities have been removed in an effort to protect the complete anonymity of these respondents.”,
+    subtitle: "GPA distribution for Man and Woman respondents. Editor’s Note: Only data from the GPA range of 5.0 - 6.0 is used. Correlated statistics from respondents who identify as “Agender,” “Genderfluid,” “Genderqueer,” “Nonbinary,” and “Other” gender identities have been removed in an effort to protect the complete anonymity of these respondents.",
     // 2023!!
   });
 
