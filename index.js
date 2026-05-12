@@ -158,6 +158,7 @@ sota.sotaNavbar(
 
 // ONLINE
 window.onload = () => {
+  return; // TEMP: graphs disabled
   // -- GENERAL!! ---
 
   var margin = {
