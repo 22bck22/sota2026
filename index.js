@@ -1215,7 +1215,6 @@ window.onload = () => {
     showLegend: true,
     labelStyle: "onBar",
     groupLabelStyle: "onBar",
-    inputIsPercentage: true,
     displayPercentage: true,
     title: "HOS Search Student Input & Class Year",
     subtitle: "Whether respondents think students should have greater input in the search for the next Head of School correlated with their class year.",
