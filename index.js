@@ -1717,7 +1717,7 @@ window.onload = () => {
 
   sota.bigNumber({
     section: "discipline",
-    number: "31.6",
+    number: "31.6%",
     title: "Cheating/Plagiarism",
     subtitle:
       "of students at Andover have cheated or plagarized on an Andover assignment, test, quiz, or assessment.",
