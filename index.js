@@ -2727,7 +2727,6 @@ window.onload = () => {
     section: "wellness",
     dataFile: "assets/data/wellness/sleepgraph",
     maxVal: 40,
-    inputIsPercentage: true,
     title: "Sleep",
     subtitle: "How many hours of sleep do you get per night?",
     // 2023!!
